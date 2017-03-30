@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MDTUG0.0.1</string>
+    <string name="user_name_hint">借阅证号/学号</string>
+    <string name="password_hint">借阅密码</string>
+    <string name="forgot_password">忘记密码</string>
+    <string name="sign_in">登 录</string>
+    <string name="for_password1">找回密码</string>
+    <string name="write_user_name_hint">输入借阅证号/学号</string>
+    <string name="write_mail_hint">输入绑定邮箱地址</string>
+    <string name="no_mail_hint">如未绑定过邮箱，请去教务处修改密码</string>
+    <string name="btn_sure">确 定</string>
+    <string name="home">明德图书馆</string>
+    <string name="page">章节</string>
+    <string name="lib">图书</string>
+    <string name="per">期刊</string>
+    <string name="news">报纸</string>
+    <string name="paper">学位论文</string>
+    <string name="more">更多</string>
+    <string name="search">搜 索</string>
+    <string name="my_book">我的订阅</string>
+    <string name="my_collection">我的收藏</string>
+    <string name="my_like">我的爱好</string>
+    <string name="setting">设 置</string>
+    <string name="action_bar_add_book">新增订阅</string>
+    <string name="web">网页</string>
+    <string name="picture">图片</string>
+    <string name="offer_for_me">为我推荐</string>
+    <string name="book_guide">图书导航</string>
+    <string name="per_guide">期刊导航</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+</resources>

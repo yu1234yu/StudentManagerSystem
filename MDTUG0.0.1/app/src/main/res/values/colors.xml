@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1d5895</color><!--标题栏-->
+    <color name="colorActionBar">#1d5895</color><!--ActionBar-->
+    <color name="colorAccent">#FF4081</color><!--按钮、光标-->
+    <color name="windowBackground">#f5fdfd</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#101112</color>
+    <color name="hintWords">#a7a9aa</color>
+    <color name="grey">#646464</color>
+    <color name="blackFont">#616161</color>
+</resources>
